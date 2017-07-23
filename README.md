@@ -1,5 +1,5 @@
 # Notes App
-A simple app for note keeping written using pure JavaScript.
+A simple app for seeing political news summaries using pure JavaScript.
 
 #How to use
 Clone repository
